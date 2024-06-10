@@ -1,7 +1,7 @@
 # wasm-pre-init
 
 Quick and dirty testing [wizer](https://github.com/bytecodealliance/wizer) 
-with wasm compiled using [wazero](https://github.com/tetratelabs/wazero/)
+against wasm binaries built with rust and ran using [wazero](https://github.com/tetratelabs/wazero/) runtime.
 
 Spoiler: it works perfectly :)
 
